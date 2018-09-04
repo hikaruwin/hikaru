@@ -1,0 +1,3 @@
+{
+  "login_case.py::LoginTest::test_login_user_pwd_null": true
+}

@@ -1,0 +1,118 @@
+2018-05-07 10:56:07,934 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 10:56:22,358 - framework - INFO - Java+Selenium3.0基础篇1-环境搭建 - CSDN博客
+2018-05-07 13:27:48,747 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 13:28:02,210 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 15:25:35,963 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 15:25:48,775 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 15:27:50,276 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 15:28:03,450 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 15:30:26,184 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 15:30:38,334 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 15:35:06,450 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 15:35:19,115 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 15:38:43,749 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 15:38:56,457 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 17:14:07,581 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 17:14:20,344 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 17:47:55,184 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 17:48:07,563 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 19:25:05,391 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 19:25:18,282 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 19:27:35,046 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 19:27:47,513 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 19:32:12,891 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 19:32:26,108 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 19:37:50,640 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 19:38:05,145 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 20:46:55,253 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 20:47:07,348 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 20:49:37,657 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 20:49:52,115 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 20:54:21,380 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 20:54:36,062 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 20:54:36,571 - framework - INFO - attach file C:\Users\Administrator\apitest\Test_framework\report\report.html
+2018-05-07 20:54:36,757 - framework - ERROR - 用户名密码验证失败！ (530, 'Error: A secure connection is requiered(such as ssl). More information at http://service.mail.qq.com/cgi-bin/help?id=28')
+Traceback (most recent call last):
+  File "C:\Users\Administrator\apitest\Test_framework\utils\mail.py", line 54, in send
+    smtp_server.login(self.sender, self.password)
+  File "C:\Python27\lib\smtplib.py", line 622, in login
+    raise SMTPAuthenticationError(code, resp)
+SMTPAuthenticationError: (530, 'Error: A secure connection is requiered(such as ssl). More information at http://service.mail.qq.com/cgi-bin/help?id=28')
+2018-05-07 20:56:34,872 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 20:56:50,740 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 20:56:51,499 - framework - INFO - attach file C:\Users\Administrator\apitest\Test_framework\report\report.html
+2018-05-07 20:56:54,095 - framework - INFO - 发送成功test_report成功！ 收件人:hikaruwin@126.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2018-05-07 21:27:07,440 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-07 21:27:19,081 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-07 21:27:19,563 - framework - INFO - attach file C:\Users\Administrator\apitest\Test_framework\report\report.html
+2018-05-07 21:27:21,950 - framework - INFO - 发送成功test_report成功！ 收件人:hikaruwin@126.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2018-05-08 16:05:15,355 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-08 16:05:15,378 - framework - INFO - Selenium_百度百科
+2018-05-08 16:05:15,401 - framework - INFO - Selenium自动化测试框架的搭建 (转) - shin...-51Testing软件测试网
+2018-05-08 16:05:15,421 - framework - INFO - 用Selenium测试web应用 - CSDN博客
+2018-05-08 16:05:15,440 - framework - INFO - 软件测试Selenium自学免费课第二节:编写你的第一个Selenium测试
+2018-05-08 16:05:15,463 - framework - INFO - selenium知识点小结 - 51Testing软件测试网
+2018-05-08 16:05:15,482 - framework - INFO - Selenium测试实践_百度百科
+2018-05-08 16:05:15,503 - framework - INFO - JavaScript(Node.js)+ Selenium自动化测试 - 虫师 - 博客园
+2018-05-08 16:05:15,523 - framework - INFO - 如何用Selenium做自动化测试 - CSDN博客
+2018-05-08 16:05:15,542 - framework - INFO - Selenium - Web Browser Automation
+2018-05-08 16:05:29,073 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-08 16:05:29,095 - framework - INFO - Python爬虫利器五之Selenium的用法 - 知行Lee - 博客园
+2018-05-08 16:05:29,119 - framework - INFO - python client for selenium - selenium · PyPI
+2018-05-08 16:05:29,157 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-05-08 16:05:29,184 - framework - INFO - 自动化测试基础篇--Selenium Python环境搭建 - 叁藏法师 - 博客园
+2018-05-08 16:05:29,207 - framework - INFO - Python selenium —— selenium与自动化测试成神之路 - CSDN博客
+2018-05-08 16:05:29,229 - framework - INFO - Python selenium —— 教你在Windows上搭建Python+Selenium环境 -...
+2018-05-08 16:05:29,252 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-05-08 16:05:29,273 - framework - INFO - Python+Selenium 简单的实例 - CSDN博客
+2018-05-08 16:05:29,303 - framework - INFO - 2. Getting Started — Selenium Python Bindings 2 documentation
+2018-05-08 16:09:15,349 - framework - INFO - 功能自动化测试工具——Selenium篇_51Testing软件测试网
+2018-05-08 16:09:15,371 - framework - INFO - Selenium_百度百科
+2018-05-08 16:09:15,392 - framework - INFO - Selenium自动化测试框架的搭建 (转) - shin...-51Testing软件测试网
+2018-05-08 16:09:15,418 - framework - INFO - 用Selenium测试web应用 - CSDN博客
+2018-05-08 16:09:15,448 - framework - INFO - 软件测试Selenium自学免费课第二节:编写你的第一个Selenium测试
+2018-05-08 16:09:15,483 - framework - INFO - 自动化测试的Selenium的python版安装与使用_百度经验
+2018-05-08 16:09:15,506 - framework - INFO - selenium知识点小结 - 51Testing软件测试网
+2018-05-08 16:09:15,528 - framework - INFO - Selenium测试实践_百度百科
+2018-05-08 16:09:15,551 - framework - INFO - JavaScript(Node.js)+ Selenium自动化测试 - 虫师 - 博客园
+2018-05-08 16:09:15,572 - framework - INFO - 如何用Selenium做自动化测试 - CSDN博客
+2018-05-08 16:09:29,802 - framework - INFO - Selenium with Python — Selenium Python Bindings 2 ...
+2018-05-08 16:09:29,823 - framework - INFO - Python爬虫利器五之Selenium的用法 - 知行Lee - 博客园
+2018-05-08 16:09:29,845 - framework - INFO - python client for selenium - selenium · PyPI
+2018-05-08 16:09:29,865 - framework - INFO - python爬虫从入门到放弃(八)之 Selenium库的使用 - pytho...-博客园
+2018-05-08 16:09:29,888 - framework - INFO - 自动化测试基础篇--Selenium Python环境搭建 - 叁藏法师 - 博客园
+2018-05-08 16:09:29,911 - framework - INFO - Python selenium —— selenium与自动化测试成神之路 - CSDN博客
+2018-05-08 16:09:29,931 - framework - INFO - Python+Selenium 简单的实例 - CSDN博客
+2018-05-08 16:09:29,951 - framework - INFO - Windows下python+selenium安装、使用 - CSDN博客
+2018-05-08 16:09:29,973 - framework - INFO - 2. 快速入门 — Selenium-Python中文文档 2 documentation
+2018-05-08 16:09:29,996 - framework - INFO - 2. Getting Started — Selenium Python Bindings 2 documentation
+2018-05-08 16:09:33,089 - framework - INFO - attach file C:\Users\Administrator\apitest\Test_framework\report\report.html
+2018-05-08 16:09:35,459 - framework - INFO - 发送成功test_report成功！ 收件人:hikaruwin@126.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2018-05-08 20:55:04,632 - framework - DEBUG - GET http://www.baidu.com
+2018-05-08 20:55:04,634 - framework - DEBUG - 请求成功：<Response [200]>
+<!DOCTYPE html>
+<!--STATUS OK--><html> <head><meta http-equiv=content-type content=text/html;charset=utf-8><meta http-equiv=X-UA-Compatible content=IE=Edge><meta content=always name=referrer><link rel=stylesheet type=text/css href=http://s1.bdstatic.com/r/www/cache/bdorz/baidu.min.css><title>百度一下，你就知道</title></head> <body link=#0000cc> <div id=wrapper> <div id=head> <div class=head_wrapper> <div class=s_form> <div class=s_form_wrapper> <div id=lg> <img hidefocus=true src=//www.baidu.com/img/bd_logo1.png width=270 height=129> </div> <form id=form name=f action=//www.baidu.com/s class=fm> <input type=hidden name=bdorz_come value=1> <input type=hidden name=ie value=utf-8> <input type=hidden name=f value=8> <input type=hidden name=rsv_bp value=1> <input type=hidden name=rsv_idx value=1> <input type=hidden name=tn value=baidu><span class="bg s_ipt_wr"><input id=kw name=wd class=s_ipt value maxlength=255 autocomplete=off autofocus></span><span class="bg s_btn_wr"><input type=submit id=su value=百度一下 class="bg s_btn"></span> </form> </div> </div> <div id=u1> <a href=http://news.baidu.com name=tj_trnews class=mnav>新闻</a> <a href=http://www.hao123.com name=tj_trhao123 class=mnav>hao123</a> <a href=http://map.baidu.com name=tj_trmap class=mnav>地图</a> <a href=http://v.baidu.com name=tj_trvideo class=mnav>视频</a> <a href=http://tieba.baidu.com name=tj_trtieba class=mnav>贴吧</a> <noscript> <a href=http://www.baidu.com/bdorz/login.gif?login&amp;tpl=mn&amp;u=http%3A%2F%2Fwww.baidu.com%2f%3fbdorz_come%3d1 name=tj_login class=lb>登录</a> </noscript> <script>document.write('<a href="http://www.baidu.com/bdorz/login.gif?login&tpl=mn&u='+ encodeURIComponent(window.location.href+ (window.location.search === "" ? "?" : "&")+ "bdorz_come=1")+ '" name="tj_login" class="lb">登录</a>');</script> <a href=//www.baidu.com/more/ name=tj_briicon class=bri style="display: block;">更多产品</a> </div> </div> </div> <div id=ftCon> <div id=ftConw> <p id=lh> <a href=http://home.baidu.com>关于百度</a> <a href=http://ir.baidu.com>About Baidu</a> </p> <p id=cp>&copy;2017&nbsp;Baidu&nbsp;<a href=http://www.baidu.com/duty/>使用百度前必读</a>&nbsp; <a href=http://jianyi.baidu.com/ class=cp-feedback>意见反馈</a>&nbsp;京ICP证030173号&nbsp; <img src=//www.baidu.com/img/gs.gif> </p> </div> </div> </div> </body> </html>
+
+2018-05-08 20:55:04,634 - framework - DEBUG - <!DOCTYPE html>
+<!--STATUS OK--><html> <head><meta http-equiv=content-type content=text/html;charset=utf-8><meta http-equiv=X-UA-Compatible content=IE=Edge><meta content=always name=referrer><link rel=stylesheet type=text/css href=http://s1.bdstatic.com/r/www/cache/bdorz/baidu.min.css><title>百度一下，你就知道</title></head> <body link=#0000cc> <div id=wrapper> <div id=head> <div class=head_wrapper> <div class=s_form> <div class=s_form_wrapper> <div id=lg> <img hidefocus=true src=//www.baidu.com/img/bd_logo1.png width=270 height=129> </div> <form id=form name=f action=//www.baidu.com/s class=fm> <input type=hidden name=bdorz_come value=1> <input type=hidden name=ie value=utf-8> <input type=hidden name=f value=8> <input type=hidden name=rsv_bp value=1> <input type=hidden name=rsv_idx value=1> <input type=hidden name=tn value=baidu><span class="bg s_ipt_wr"><input id=kw name=wd class=s_ipt value maxlength=255 autocomplete=off autofocus></span><span class="bg s_btn_wr"><input type=submit id=su value=百度一下 class="bg s_btn"></span> </form> </div> </div> <div id=u1> <a href=http://news.baidu.com name=tj_trnews class=mnav>新闻</a> <a href=http://www.hao123.com name=tj_trhao123 class=mnav>hao123</a> <a href=http://map.baidu.com name=tj_trmap class=mnav>地图</a> <a href=http://v.baidu.com name=tj_trvideo class=mnav>视频</a> <a href=http://tieba.baidu.com name=tj_trtieba class=mnav>贴吧</a> <noscript> <a href=http://www.baidu.com/bdorz/login.gif?login&amp;tpl=mn&amp;u=http%3A%2F%2Fwww.baidu.com%2f%3fbdorz_come%3d1 name=tj_login class=lb>登录</a> </noscript> <script>document.write('<a href="http://www.baidu.com/bdorz/login.gif?login&tpl=mn&u='+ encodeURIComponent(window.location.href+ (window.location.search === "" ? "?" : "&")+ "bdorz_come=1")+ '" name="tj_login" class="lb">登录</a>');</script> <a href=//www.baidu.com/more/ name=tj_briicon class=bri style="display: block;">更多产品</a> </div> </div> </div> <div id=ftCon> <div id=ftConw> <p id=lh> <a href=http://home.baidu.com>关于百度</a> <a href=http://ir.baidu.com>About Baidu</a> </p> <p id=cp>&copy;2017&nbsp;Baidu&nbsp;<a href=http://www.baidu.com/duty/>使用百度前必读</a>&nbsp; <a href=http://jianyi.baidu.com/ class=cp-feedback>意见反馈</a>&nbsp;京ICP证030173号&nbsp; <img src=//www.baidu.com/img/gs.gif> </p> </div> </div> </div> </body> </html>
+
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
+%(asctime)s - %(name)s - %(levelname)s - %(message)s
